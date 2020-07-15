@@ -1,0 +1,26 @@
+{
+	"profiles":[
+		{
+			"basic":{
+				"name":"Lokesh Gudla",
+				"role":"Web-Developer",
+				"phone":"8185075680",
+				"email":"lokeshgudla5680@gmail",
+				"address":"West Godavari"
+			},
+			"hobbies":["Playing","Browsing Internet","Reading","Chatting"],
+	
+			"career":"I wanna Become badboy"
+		},
+		{
+			"basic":{
+				"name":"Dustin Badboy",
+				"role":"Software",
+				"phone":"7386465680",
+				"email":"dustinbrave123@gmail"
+			},
+			"hobbies":["Sleeping","Browsing Internet","Eating","Walking"],
+			"career":"Waste Fellow"
+		}
+	]
+}
